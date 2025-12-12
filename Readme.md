@@ -1,9 +1,13 @@
 # KNNX Assignments — README
 
+## 🎥 Video Explanation
+
+Watch the full walkthrough here: **[https://youtu.be/SIWu1hDVV4Q](https://youtu.be/SIWu1hDVV4Q)**
+
 This repository contains two console-based projects implemented as part of the **KNNX Services India Private Limited Assignment**:
 
-1. **Text Adventure Game in KN-Lang (implemented using JavaScript)**
-2. **Quiz Master Game in KN-Lang (logic prepared, structure explained)**
+1. **Text Adventure Game in KN‑Lang (implemented using JavaScript)**
+2. **Quiz Master Game in KN‑Lang (logic prepared, structure explained)**
 
 Below is a complete explanation of the **workflow**, **logic**, and **features** of both assignments.
 
@@ -38,7 +42,7 @@ The game follows a simple yet structured flow:
 
 # 🏗️ Assignment 1 — Code Architecture
 
-Your implementation uses **three main classes**, similar to KN-Lang's Squad/Doodle structure.
+Your implementation uses **three main classes**, similar to KN‑Lang's Squad/Doodle structure.
 
 ## 🏛️ **Class: Room**
 
@@ -165,7 +169,7 @@ A console-based quiz game where the player selects a category and difficulty, th
 
 ---
 
-# 🏗️ Assignment 2 Structure (Required by KN-Lang)
+# 🏗️ Assignment 2 Structure (Required by KN‑Lang)
 
 ## 🎮 **Player Squad**
 
@@ -223,4 +227,4 @@ A dynamic NPC system or more puzzle rooms with multi-step challenges. Possibly a
 
 # 🎉 End
 
-This README explains the entire logic behind both assignments clearly and professionally, matching the format expected in KN-Lang training.
+This README explains the entire logic behind both assignments clearly and professionally, matching the format expected in KN‑Lang training.
